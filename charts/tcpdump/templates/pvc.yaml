@@ -10,4 +10,4 @@ spec:
   storageClassName: azurefile
   resources:
     requests:
-      storage: 500Gi
+      storage: 50Gi
